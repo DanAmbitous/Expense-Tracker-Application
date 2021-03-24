@@ -1,0 +1,9 @@
+.datas {
+  display: flex;
+  flex-flow: column;
+}
+
+#clear {
+  position: relative;
+  left:73.5vw;
+}
